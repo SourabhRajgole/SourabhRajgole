@@ -42,7 +42,7 @@ Recent hands-on focus areas include:
   Repo: (link)
 
 - **Malware Sneaker**  
-  Tool to recover/analyze suspected malware embedded in image files across formats and summarize behaviors/characteristics.  
+  A tool to recover/analyze suspected malware embedded in image files across formats and summarize behaviors/characteristics.  
   Repo: (link)
 
 - **Home SOC Lab (Documentation + Notes)**  
@@ -53,6 +53,20 @@ Recent hands-on focus areas include:
   Multi-node network with routing/segmentation controls, iptables policies, SSH hardening, and validation via packet captures and log review.  
   Repo: (link)
 
+---
+
+## PicoCTF 2025 (CTF Progress)
+
+- picoCTF username: **Sourabh_SR**
+- Solved: **69 total** (**39 Easy**, **24 Medium**, **6 Hard**)
+- Categories: General Skills • Cryptography • Web Exploitation • Forensics • Binary Exploitation • Reverse Engineering
+
+<details>
+  <summary><b>Progress screenshot</b></summary>
+
+![picoCTF progress tracker screenshot](assets/picoctf-progress.png)
+
+</details>
 ---
 
 ## Experience Highlights
