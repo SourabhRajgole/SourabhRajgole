@@ -64,7 +64,7 @@ Recent hands-on focus areas include:
 <details>
   <summary><b>Progress screenshot</b></summary>
 
-![picoCTF progress tracker screenshot](assets/Screenshot 2026-01-06 181126.png)
+![picoCTF progress tracker screenshot](SourabhRajgol/eassets/Screenshot 2026-01-06 181126.png)
 
 </details>
 ---
