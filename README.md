@@ -64,7 +64,7 @@ Recent hands-on focus areas include:
 <details>
   <summary><b>Progress screenshot</b></summary>
 
-![picoCTF progress tracker screenshot](assets/picoctf-progress.png)
+![picoCTF progress tracker screenshot](assets/Screenshot 2026-01-06 181126.png)
 
 </details>
 ---
@@ -90,8 +90,4 @@ CompTIA Security+ • Intro to Splunk • ISO 27001 Awareness • NSE 1 (plus ad
 
 
 ---
-
-## Optional: GitHub Stats
-
-![Sourabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=SourabhRajgole&show_icons=true)
 
