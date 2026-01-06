@@ -61,12 +61,8 @@ Recent hands-on focus areas include:
 - Solved: **69 total** (**39 Easy**, **24 Medium**, **6 Hard**)
 - Categories: General Skills • Cryptography • Web Exploitation • Forensics • Binary Exploitation • Reverse Engineering
 
-<details>
-  <summary><b>Progress screenshot</b></summary>
+<img src="assets/picoctf-progress.png" alt="picoCTF progress tracker screenshot" width="900" />
 
-  <img src="assets/Screenshot 2026-01-06 181126.png" alt="picoCTF progress tracker screenshot" width="900" />
-
-</details>
 ---
 
 ## Experience Highlights
